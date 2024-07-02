@@ -1,0 +1,21 @@
+.header, .hero, .five, .footer{
+     background-color: rgb(188, 255, 53);
+     margin-bottom: 10px;
+}
+
+.box{
+     min-height: 100px;
+     margin: 10px 0;
+     background-color:red; 
+}
+
+.box1{
+     min-height: 100px;
+     margin: 10px 0;
+     background-color:cornflowerblue; 
+}
+.c_box{
+     min-height: 100px;
+     margin: 10px 0;
+     background-color:rgb(255, 0, 247);
+}
